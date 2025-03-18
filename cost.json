@@ -1,0 +1,19 @@
+{
+    "Munchen_solar": 589,
+    "Munchen_battery": 294,
+    "Bulgaria_solar": 501,
+    "Bulgaria_battery": 225,
+    "Italy_solar": 544,
+    "Italy_battery": 264,
+    "Spain_solar": 533,
+    "Spain_battery": 254,
+    "VlakteRaan_wind": 2100,
+    "VlakteRaan_battery": 300,
+    "Arkona_wind": 2100,
+    "Arkona_battery": 300,
+    "Bulgaria-Munchen": 840,
+    "Italy-Munchen": 700,
+    "Spain-Munchen": 1220,
+    "VlakteRaan-Munchen": 490,
+    "Arkona-Munchen": 490
+}
